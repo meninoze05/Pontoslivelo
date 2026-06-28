@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Resgate de Pontos Livelo Bradesco",
+  "description": "Troque seus pontos Livelo por saldo direto em sua conta Bradesco de forma rápida, segura e com as melhores taxas do mercado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
